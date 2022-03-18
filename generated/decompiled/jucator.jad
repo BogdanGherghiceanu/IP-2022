@@ -1,0 +1,48 @@
+// Decompiled by DJ v3.12.12.101 Copyright 2016 Atanas Neshkov  Date: 3/18/2022 1:11:11 PM
+// Home Page: http://www.neshkov.com/dj.html - Check often for new version!
+// Decompiler options: packimports(3) 
+// Source File Name:   jucator.java
+
+package ServerAplicatie;
+
+
+public class jucator
+{
+
+    public jucator()
+    {
+    }
+
+    public void setGameId()
+    {
+    }
+
+    public int getRating(jucator jucator1)
+    {
+        return 1;
+    }
+
+    public int setRating(jucator jucator1)
+    {
+        return 1;
+    }
+
+    public int getGameId(int i)
+    {
+        return 1;
+    }
+
+    public boolean setReported(boolean flag)
+    {
+        return true;
+    }
+
+    public boolean getReported(jucator jucator1)
+    {
+        return true;
+    }
+
+    public int game_id;
+    public int rating;
+    public boolean isReported;
+}

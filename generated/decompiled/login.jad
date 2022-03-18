@@ -1,0 +1,28 @@
+// Decompiled by DJ v3.12.12.101 Copyright 2016 Atanas Neshkov  Date: 3/18/2022 1:11:11 PM
+// Home Page: http://www.neshkov.com/dj.html - Check often for new version!
+// Decompiler options: packimports(3) 
+// Source File Name:   login.java
+
+package ServerAplicatie;
+
+
+public class login
+{
+
+    public login()
+    {
+    }
+
+    public boolean checkCredentials()
+    {
+        return true;
+    }
+
+    public void createUserSession()
+    {
+    }
+
+    public String nickname;
+    public String parola;
+    public int newAttr;
+}

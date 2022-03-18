@@ -1,0 +1,40 @@
+// Decompiled by DJ v3.12.12.101 Copyright 2016 Atanas Neshkov  Date: 3/18/2022 1:11:11 PM
+// Home Page: http://www.neshkov.com/dj.html - Check often for new version!
+// Decompiler options: packimports(3) 
+// Source File Name:   admin.java
+
+package ServerAplicatie;
+
+
+// Referenced classes of package ServerAplicatie:
+//            jucator
+
+public class admin
+{
+
+    public admin()
+    {
+    }
+
+    public void getPlayersRatings()
+    {
+    }
+
+    public void banPlayer()
+    {
+    }
+
+    public void deletePlayer(jucator jucator)
+    {
+    }
+
+    public void superviseGame()
+    {
+    }
+
+    public void seeReported()
+    {
+    }
+
+    public Integer newAttr;
+}
